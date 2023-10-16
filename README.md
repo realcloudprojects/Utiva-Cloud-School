@@ -1,60 +1,45 @@
-# FLIT-Cloud-Project 2023 -Raphael Gab-Momoh MVP
+# FLIT-Cloud-Project 2023 
 ## Introduction
-The project of These skills comprises of   pre-project task and also the task itself. The pre-project task contaun valuable toolkit that an apprentice may have acquired in the past. These competencies will prove advantageous as they transition into a more hands-on role as an apprentice. Consequently, revisiting these skills is of paramount importance. Each activity will be meticulously documented in a GitHub repository.
+The project comprises pre-project tasks and also the task itself. The pre-project task contains a valuable toolkit that an apprentice may have acquired in the past. These competencies will prove advantageous as they transition into a more hands-on role as an apprentice. Consequently, revisiting these skills is of paramount importance. Each activity will be meticulously documented in a GitHub repository.
 
 ## Main Project
 Build Your Resume on Azure with Blob Storage, Functions, CosmosDB, and GitHub
 
-# Class Rules and Regulations
-
-## Punctuality: 
-Students must log in on time for scheduled online classes.
-Notify the teacher in advance if you cannot attend a class.
-
-## Respect and Courtesy:
-
-Treat the instructor and fellow students with respect in all communications.
-Raise your hand or use the chat feature to ask questions or make comments.
-
-## No Distractions:
-
-Find a quiet, well-lit space for attending classes.
-Avoid multitasking or using social media during class.
 
 ## Technical Requirements:
 
 Ensure your device and internet connection are reliable.
 Familiarize yourself with the online platform and required software.
 
-## Homework and Assignments:
 
-
-## Participation:
-Engage actively in class discussions, activities, and group work.
-
-## Attendance:
-
-
-## Respect Deadlines:
-Adhere to project, assignment, and test deadlines.
-
-## Communication:
-
-Check your messaging platform regularly for updates and announcements.
 
 ## Feedback:
-Provide constructive feedback to the instructor to help improve the online learning experience.If you need help send the coach a message: raphael@rdgmh.onmicrosoft.com
+Provide constructive feedback to the instructor to help improve the online learning experience. If you need help send the coach a message: raphael@rdgmh.onmicrosoft.com
 
 
-# Other Class Assets
+# Useful Assets & Links 
 
-## Link to Google Drive Containing Training Slides
+## C# with freecode camp
+https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft
 
+## Official MSlearn link to learn C#
+https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/
 
-## Link to Google Drive for submission of class assignments or projects
+## How we get our voucher (valid till November 2023)
+https://digitalskillsnigeria.gov.ng/advanced/
+- make sure you choose advanced skills and certification
+- select AZ 104 as your preferred course, take the assessment, and make sure you score 60%
 
+## Another way to get a voucher
+- Register for the Cloud Skill Challenge from any major Microsoft event
 
-# Required Tools for the class
+##  Learn Markdown Language
+https://www.markdownguide.org/cheat-sheet/
+  
+## Start learning about Linux Commands to prepare you for Linux Class
+https://linuxcommandlibrary.com/
+
+##  Tools you might find handy and useful
 
 ## How to Install and Configure Jenkins on Windows 11
 https://techdirectarchive.com/2023/01/31/how-to-install-and-configure-jenkins-on-windows-11/
