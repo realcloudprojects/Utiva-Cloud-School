@@ -41,6 +41,18 @@ https://linuxcommandlibrary.com/
 
 ##  Tools you might find handy and useful
 
+## Download VMWare workstation Pro
+https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+
+## VMware Workstation Pro Key 
+https://gist.github.com/PurpleVibe32/30a802c3c8ec902e1487024cdea26251
+
+## Ubuntu Desktop image for your VMWare Workstation Pro
+https://ubuntu.com/download/desktop
+
+## Ubuntu MultiPass
+https://multipass.run/install
+
 ## How to Install and Configure Jenkins on Windows 11
 https://techdirectarchive.com/2023/01/31/how-to-install-and-configure-jenkins-on-windows-11/
 
@@ -83,14 +95,10 @@ https://phoenixnap.com/kb/how-to-install-terraform
 ## Download and install Visual Studio 
 https://visualstudio.microsoft.com/downloads/
 
-## Download Ubuntu Desktop on your PC, but don't install it yet
-https://ubuntu.com/download/desktop
-
 ## Install Visual Studio Code 
 https://code.visualstudio.com/docs/setup/windows
 
 ## Install Visual Studio
 https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022
 
-## Start learning about Linux Commands to prepare you for Linux Class
-https://linuxcommandlibrary.com/
+
