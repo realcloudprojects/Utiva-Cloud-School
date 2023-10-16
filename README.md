@@ -86,6 +86,9 @@ https://docs.docker.com/desktop/install/mac-install/
 ## How to Install .NET on Windows
 https://learn.microsoft.com/en-us/dotnet/core/install/windows?tabs=net70
 
+## How to install.NET on Mac
+https://learn.microsoft.com/en-us/dotnet/core/install/macos
+
 ## How to install Kubectl on Mac
 https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
 
