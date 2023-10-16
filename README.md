@@ -1,6 +1,9 @@
 # FLIT-Cloud-Project 2023 -Raphael Gab-Momoh MVP
 ## Introduction
-This is a high-level instructor-led virtual class designed to take participants from beginner to advanced level in Microsoft Azure.
+The project of These skills comprises of   pre-project task and also the task itself. The pre-project task contaun valuable toolkit that an apprentice may have acquired in the past. These competencies will prove advantageous as they transition into a more hands-on role as an apprentice. Consequently, revisiting these skills is of paramount importance. Each activity will be meticulously documented in a GitHub repository.
+
+## Main Project
+Build Your Resume on Azure with Blob Storage, Functions, CosmosDB, and GitHub
 
 # Class Rules and Regulations
 
