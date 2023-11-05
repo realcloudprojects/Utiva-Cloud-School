@@ -1,9 +1,7 @@
-# FLIT-Cloud-Project 2023 
+# Required Software & Important links
 ## Introduction
-The project comprises pre-project tasks and also the task itself. The pre-project task contains a valuable toolkit that an apprentice may have acquired in the past. These competencies will prove advantageous as they transition into a more hands-on role as an apprentice. Consequently, revisiting these skills is of paramount importance. Each activity will be meticulously documented in a GitHub repository.
-
+You will find in this repo useful links thats you will need for the rest of the cohort
 ## Main Project
-Build Your Resume on Azure with Blob Storage, Functions, CosmosDB, and GitHub
 
 
 ## Technical Requirements:
