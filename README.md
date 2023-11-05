@@ -53,6 +53,9 @@ https://ubuntu.com/download/desktop
 ## Ubuntu MultiPass
 https://multipass.run/install
 
+## Azure DevOps Labs
+https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
+
 ## How to Install and Configure Jenkins on Windows 11
 https://techdirectarchive.com/2023/01/31/how-to-install-and-configure-jenkins-on-windows-11/
 
